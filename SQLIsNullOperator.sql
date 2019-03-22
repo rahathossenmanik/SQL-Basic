@@ -1,0 +1,2 @@
+SELECT * FROM Learning.People
+	WHERE NAME IS NULL;

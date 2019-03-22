@@ -1,0 +1,2 @@
+SELECT * FROM Learning.People
+	WHERE ADDRESS LIKE "B%";

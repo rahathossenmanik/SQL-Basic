@@ -1,0 +1,2 @@
+SELECT * FROM Learning.People
+	WHERE NOT ADDRESS="MP" OR ADDRESS="Bhopal";

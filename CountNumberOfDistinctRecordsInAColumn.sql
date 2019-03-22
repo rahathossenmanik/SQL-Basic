@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT Name) FROM Learning.People;

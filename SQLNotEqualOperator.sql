@@ -1,0 +1,2 @@
+SELECT * FROM Learning.People
+	WHERE SALARY<>2000.00;
