@@ -1,0 +1,2 @@
+SELECT ID AS ROLL
+FROM Learning.People;

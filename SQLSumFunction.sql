@@ -1,0 +1,2 @@
+SELECT SUM(SALARY)
+FROM Learning.People;
