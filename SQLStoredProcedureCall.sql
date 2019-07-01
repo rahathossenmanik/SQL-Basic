@@ -1,0 +1,2 @@
+USE Learning;
+CALL SelectAllStudents();
