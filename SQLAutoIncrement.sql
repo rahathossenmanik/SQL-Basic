@@ -1,0 +1,3 @@
+USE Learning;
+ALTER TABLE Teacher
+    AUTO_INCREMENT=10;
