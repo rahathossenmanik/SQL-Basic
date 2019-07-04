@@ -1,0 +1,7 @@
+USE Learning;
+DELIMITER $$
+CREATE FUNCTION Rating() RETURNS int
+    BEGIN
+    	RETURN 4;
+    END
+$$
